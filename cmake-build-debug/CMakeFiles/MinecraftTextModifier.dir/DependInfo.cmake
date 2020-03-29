@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/yechentide/Documents/CPP/MinecraftTextModifier/DataManager.cpp" "/Users/yechentide/Documents/CPP/MinecraftTextModifier/cmake-build-debug/CMakeFiles/MinecraftTextModifier.dir/DataManager.cpp.o"
   "/Users/yechentide/Documents/CPP/MinecraftTextModifier/main.cpp" "/Users/yechentide/Documents/CPP/MinecraftTextModifier/cmake-build-debug/CMakeFiles/MinecraftTextModifier.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/MinecraftTextModifier.dir/DataManager.cpp.o"
   "CMakeFiles/MinecraftTextModifier.dir/main.cpp.o"
   "MinecraftTextModifier"
   "MinecraftTextModifier.pdb"

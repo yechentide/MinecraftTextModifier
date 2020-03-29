@@ -6,7 +6,27 @@
 
 #IncludeRegexTransform: 
 
+/Users/yechentide/Documents/CPP/MinecraftTextModifier/DataManager.cpp
+DataManager.h
+/Users/yechentide/Documents/CPP/MinecraftTextModifier/DataManager.h
+
+/Users/yechentide/Documents/CPP/MinecraftTextModifier/DataManager.h
+iostream
+-
+fstream
+-
+utility
+-
+vector
+-
+map
+-
+set
+-
+
 /Users/yechentide/Documents/CPP/MinecraftTextModifier/main.cpp
 iostream
 -
+DataManager.h
+/Users/yechentide/Documents/CPP/MinecraftTextModifier/DataManager.h
 

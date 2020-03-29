@@ -123,6 +123,33 @@ MinecraftTextModifier/fast:
 	$(MAKE) -f CMakeFiles/MinecraftTextModifier.dir/build.make CMakeFiles/MinecraftTextModifier.dir/build
 .PHONY : MinecraftTextModifier/fast
 
+DataManager.o: DataManager.cpp.o
+
+.PHONY : DataManager.o
+
+# target to build an object file
+DataManager.cpp.o:
+	$(MAKE) -f CMakeFiles/MinecraftTextModifier.dir/build.make CMakeFiles/MinecraftTextModifier.dir/DataManager.cpp.o
+.PHONY : DataManager.cpp.o
+
+DataManager.i: DataManager.cpp.i
+
+.PHONY : DataManager.i
+
+# target to preprocess a source file
+DataManager.cpp.i:
+	$(MAKE) -f CMakeFiles/MinecraftTextModifier.dir/build.make CMakeFiles/MinecraftTextModifier.dir/DataManager.cpp.i
+.PHONY : DataManager.cpp.i
+
+DataManager.s: DataManager.cpp.s
+
+.PHONY : DataManager.s
+
+# target to generate assembly for a file
+DataManager.cpp.s:
+	$(MAKE) -f CMakeFiles/MinecraftTextModifier.dir/build.make CMakeFiles/MinecraftTextModifier.dir/DataManager.cpp.s
+.PHONY : DataManager.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... MinecraftTextModifier"
+	@echo "... DataManager.o"
+	@echo "... DataManager.i"
+	@echo "... DataManager.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

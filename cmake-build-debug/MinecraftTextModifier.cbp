@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/yechentide/Documents/CPP/MinecraftTextModifier/DataManager.cpp">
+			<Option target="MinecraftTextModifier"/>
+		</Unit>
+		<Unit filename="/Users/yechentide/Documents/CPP/MinecraftTextModifier/DataManager.h">
+			<Option target="MinecraftTextModifier"/>
+		</Unit>
 		<Unit filename="/Users/yechentide/Documents/CPP/MinecraftTextModifier/main.cpp">
 			<Option target="MinecraftTextModifier"/>
 		</Unit>

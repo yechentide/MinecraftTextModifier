@@ -3,4 +3,4 @@ project(MinecraftTextModifier)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(MinecraftTextModifier main.cpp)
+add_executable(MinecraftTextModifier main.cpp DataManager.cpp DataManager.h)
