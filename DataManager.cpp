@@ -17,6 +17,10 @@ void DataManager::getDataFromFile(const string& filename){
         }
     }else {
         cout << "请确认 " << filename << " 的位置" << endl;
+        cout << "点击回车结束" << endl;
+        string s;
+        cin >> s;
+        exit(0);
     }
 }
 
@@ -110,7 +114,7 @@ void DataManager::checkNew(const DataManager& newText){
 
         }
     }
-    ofstream writer{"newItems.txt"};
+    ofstream writer{"./src/newItems.txt"};
     if(newData.empty()){
         writer << "### 未检测到新的数据" << endl;
     }else{
