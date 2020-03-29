@@ -10,11 +10,13 @@
 src里面必须要有zh_CN.lang文件
 按需求放入rightText.txt，zh_CN_new.lang文件
 
+```
 ├── MinecraftTextModifier
 └── src
     ├── rightText.txt
     ├── zh_CN.lang
     └── zh_CN_new.lang
+```
 
 * zh_CN.lang
 当前使用的语言文本，必须。
